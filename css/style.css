@@ -1,0 +1,68 @@
+body{background: #e7e7e7 !important; overflow-x: hidden; font-family: Roboto; padding: 0!important; margin: 0!important; width: 100%}
+html{padding: 0; margin: 0}
+li.name>img{height: 95%; padding: 5px 0 5px 5px}
+a.on-action{background-color: #cc3441!important}
+.social{color: #cc3441!important}
+.slick-prev{left: 0px!important}
+.articles label{font-size: 16px; color: black}
+.articles p{padding-top: 10px; font-size: 12px}
+.slick-next{right: 0!important}
+.picked{cursor: pointer; font-size: 12px}
+.newest label{font-size: 14px; color: black}
+.newest p{padding-top: 10px; font-size: 12px}
+.newest .button{font-size: 12px}
+.sale label{font-size: 14px; color: black}
+.sale p{padding-top: 10px; font-size: 12px}
+.sale .button{font-size: 12px}
+.new p{padding-top: 10px; font-size: 12px}
+.new .button{font-size: 12px}
+.search{margin-top: 10px}
+.postfix{cursor: pointer}
+.privacy{font-size: 10px}
+.footer{background: #33383c; color: #959595}
+.footer label{padding-top: 10px}
+.footer ul{list-style-type: none; font-size: 10px}
+.priv{padding-top: 10px}
+.big{font-size: 32px!important; color:#cc3441!important}
+.priv img{margin: 0 auto; display: block}
+.red{background-color: #cc3441!important}
+p.privacy{text-align: center}
+ul.contact{padding-top: 5px}
+.activee{background-color: #cc3441!important}
+.prod-img{padding-top: 10px; padding-bottom: 10px}
+.no-pad-right {padding-right: 0}
+.no-pad-left{padding-left: 0}
+.price{color: #ff0000 !important; font-size: 18px}
+.padding-top-10{padding-top: 10px}
+.padding-top-5{padding-top: 5px}
+ul.sizee{display: inline}
+#disabled{background: #ACACAC}
+.how-much{font-size: 8px}
+.old-price{color: #919191; text-decoration: line-through; font-size: 10px}
+.red-txt{color: red!important}
+.price-old{font-size: 10px; right: 0}
+.info-txt{font-size: 12px}
+.reg{background: none}
+.red-btn{background: #cc3441}
+.red-btn:hover{background: #cc3441}
+.cart-header{font-size: 12px}
+.cart{background: #c70715}
+.final-price{font-size: 13px; text-align: left}
+.right-text{text-align: right}
+.cart-size{color: white!important; font-size: 9px}
+.deliver-text-size{font-size: 12px}
+.text-left{text-align: left}
+.privacy-text{font-size: 9px}
+.succ{font-size: 20px}
+ul.adress, ul.profile{list-style-type: none}
+.cat-txt{font-size: 17px!important}
+.size-cat{font-size: 12px!important}
+.filters-menu{position: relative!important}
+.filter-txt{color: white!important; font-size: 10px; position: absolute; margin-top: 7px; padding-left: 2px}
+.cb-filters{margin-left: 15px!important}
+.filter-header{margin-left: 15px!important; font-size: 14px!important; color: white!important}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../roboto/Roboto-Regular.ttf);
+}
